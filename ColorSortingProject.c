@@ -1,3 +1,6 @@
+//Simulate website：
+//https://www.tinkercad.com/things/0MejhLblCve-epic-inari/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=HMc27SFhM2RkSQJhdjIPZR6VkJ7Sxr62kZRxBdf1BVU
+
 // Define encoder pins
 const int Channel_A = 2;  // Channel A connected to D2
 const int Channel_B = 4;  // Channel B connected to D3
